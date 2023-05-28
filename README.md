@@ -1,6 +1,11 @@
 # DrumKit
 HTML/CSS/JS & DOM - Drum Kit 
-About this project Features Requirements Technical Information About
+About this project
+Features 
+Requirements
+Technical Information 
+
+About
 In this code along I updated the provided starter files using HTML, CSS, and Javascript
 
 
